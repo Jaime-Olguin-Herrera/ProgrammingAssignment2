@@ -27,7 +27,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## This function calculates inverse of matrix created usin makeCacheMatrix. First check if the inverse has been calculated. If so, uses that, and skip calculations.
+## This function calculates inverse of matrix created using makeCacheMatrix. First check if the inverse has been calculated. If so, uses that, and skip calculations.
 ## And also return inverse matrix
 
 ## Return a matrix that is the inverse of 'x'
